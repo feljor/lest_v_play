@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "684958451459",
+    "firebase_url": "https://lestreaming-dc379.firebaseio.com",
+    "project_id": "lestreaming-dc379",
+    "storage_bucket": "lestreaming-dc379.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684958451459:android:4a6e180587d4e3fa548b36",
+        "android_client_info": {
+          "package_name": "fr.lestreaming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684958451459-e5kd2go6r1stdq11pois5eshnv5qq8gc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUqJ8g4u-Cr4ZV0N0X0-RIZLnuZdjRmfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684958451459-e5kd2go6r1stdq11pois5eshnv5qq8gc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

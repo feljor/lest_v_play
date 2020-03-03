@@ -1,0 +1,187 @@
+<resources>
+
+    <string name="app_name">Streaming</string>
+    <!--app_title for main navigation & home title-->
+    <string name="app_title">Films Gratuits Illimités</string>
+    <string name="app_version">1.3</string>
+    <string name="contact_email">admin@lestreaming.fr</string>
+    <string name="copyright_text">Une Réalisation de MerciPro Inc.</string>
+    <!-- App -->
+    <string name="featured_tv_channels">Chaînes TV</string>
+    <string name="latest_movie">Films Récents</string>
+    <string name="latest_tv_series">Séries TV Récentes</string>
+    <string name="more">Plus</string>
+    <string name="movie">Films Récents</string>
+    <string name="live_tv">Live TV</string>
+    <string name="tv_series">Séries</string>
+    <string name="country">Pays</string>
+    <string name="genre">Genre</string>
+    <string name="fav">Mes Favoris</string>
+    <string name="search">Recherche</string>
+    <string name="no_item_found">Votre connexion est lente</string>
+    <string name="cast_n_crew">Acteurs et Directeur</string>
+    <string name="related_movie">Films Similaires</string>
+    <string name="signin">Connexion</string>
+    <string name="reset">Réinitialiser le Mot de Passe</string>
+    <string name="register">Inscription</string>
+    <string name="full_name">NOM COMPLET</string>
+    <string name="email">EMAIL</string>
+    <string name="password">MOT DE PASSE</string>
+    <string name="update">Mettre à Jour \nMon Profil</string>
+    <string name="director">Directeur :</string>
+    <string name="description">Description</string>
+    <string name="comments">Commentaires</string>
+    <string name="your_comments">Laissez un Commentaire...</string>
+    <string name="add_comments">COMMENTER</string>
+    <string name="no_internet">Aucune Connexion Internet !</string>
+    <string name="copyright">Copyright</string>
+    <string name="contact_us">Contactez-nous</string>
+    <string name="fetch_error">Impossible de charger les Films</string>
+    <string name="login_first">Vous devez vous connecter</string>
+    <string name="comment_empty">Le commentaire ne peut être vide</string>
+    <string name="error_toast">Veuillez vous connecter à Internet puis réessayer</string>
+
+    <string-array name="nav_item_name">
+        <item>Accueil</item>
+        <item>Films</item>
+        <item>Live TV</item>
+        <item>Séries</item>
+        <item>Catégories</item>
+        <item>Pays</item>
+        <item>Profil</item>
+        <item>Favoris</item>
+        <item>Déconnexion</item>
+        <item>Paramètres</item>
+    </string-array>
+
+    <string-array name="nav_item_image">
+        <item>outline_home_24</item>
+        <item>outline_movie_24</item>
+        <item>outline_live_tv_24</item>
+        <item>outline_local_movies_24</item>
+        <item>outline_folder_24</item>
+        <item>outline_outlined_flag_24</item>
+        <item>outline_person_24</item>
+        <item>outline_favorite_border_24</item>
+        <item>outline_lock_24</item>
+        <item>outline_settings_24</item>
+    </string-array>
+
+    <string-array name="nav_item_name_2">
+        <item>Accueil</item>
+        <item>Films</item>
+        <item>Live TV</item>
+        <item>Séries</item>
+        <item>Catégories</item>
+        <item>Pays</item>
+        <item>Connexion</item>
+        <item>Paramètres</item>
+    </string-array>
+
+    <string-array name="nav_item_image_2">
+        <item>outline_home_24</item>
+        <item>outline_movie_24</item>
+        <item>outline_live_tv_24</item>
+        <item>outline_local_movies_24</item>
+        <item>outline_folder_24</item>
+        <item>outline_outlined_flag_24</item>
+        <item>outline_lock_24</item>
+        <item>outline_settings_24</item>
+    </string-array>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+
+    <!-- Example settings for Data & Sync -->
+
+    <!-- Example settings for Notifications -->
+
+    <string name="title_activity_player">PlayerActivity</string>
+
+    <string name="title_activity_item_show">ItemShowActivity</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="title_activity_reply">ReplyActivity</string>
+    <string name="add_to_queue">Ajouter à la Queue</string>
+    <string name="play_now">Regarder Maintenant</string>
+    <string name="play_next">Regarder Plus Tard</string>
+    <string name="queue_item_added_to_play_next">Un Film a été ajouté à la liste de Lecture</string>
+    <string name="queue_item_added_to_queue">Un Film a été ajouté à la Queue</string>
+    <string name="program_guide">Guide du Programme</string>
+    <string name="live">EN DIRECT</string>
+    <string name="watching_on">En direct sur</string>
+    <string name="all_tv_channel">Toutes les Chaines</string>
+    <string name="you_may_also_like">Suggestion des Films</string>
+    <string name="dark_mode">Mode Sombre</string>
+    <string name="tv_channels">Chaînes TV</string>
+    <string name="watching_catch_up_tv">Suivre la TV</string>
+    <string name="deactive_account_text">Si vous ne souhaitez plus utiliser ce compte dans cette application, vous pouvez le supprimer.</string>
+    <string name="reason_to_deactivate_account">Pourquoi voulez-vous désactiver ce compte ?</string>
+    <string name="enter_password">Entrer un Mot de Passe</string>
+
+    <string name="title_activity_profile">Mon Profil</string>
+    <string name="action_settings">Paramètres</string>
+
+    <string name="terms_condition_text">Les présentes conditions générales d’utilisation (ou “CGU”) ont pour objet de définir les modalités de mise à disposition et/ou d’accès à cette application ainsi qu’aux Services.\nL’application pourra proposer des conditions spécifiques relatives à certains Services spécifiques, qui devront être acceptées par l’Internaute s’il souhaite avoir accès aux-dits Services. \nL’application fait ses meilleurs efforts pour protéger vos Données à caractère personnel contre toute forme de perte, détournement, intrusion, divulgation, altération ou destruction, en faisant usage de la multiple identification.
+\nC’est la raison pour laquelle, en fonction de votre requête, via le formulaire de “Contact” de notre site web, par mesure de sécurité nous pourrons vous demander la communication de votre adresse email, nom, prénom et éventuellement une photocopie de votre carte d’identité (notamment pour toute demande portant sur vos “Droits”.)\nLa suite de ces conditions sur notre site.  </string>
+    <string name="deactivate_account">SUPPRIMER MON COMPTE</string>
+    <string name="explore_by_genre">Parcourir par Catégories</string>
+    <string name="explore_by_country">Parcourir par Pays</string>
+    <string name="share_this_app">Partager cette application</string>
+    <string name="share_body">Cette application est sympa, vous pouvez la télécharger à partir de Play Store :\n    https://play.google.com/store/apps/details?id=</string>
+    <string name="term_of_services">Conditions d\'Utilisation</string>
+    <string name="accept">Accepter</string>
+    <string name="decline">Réfuser</string>
+    <string name="account_deactivate_info"><![CDATA[Votre compte sera désactivé et seul l\'admin pourra l'activer.]]></string>
+    <string name="regular_program">Programme Normal</string>
+    <string name="international">International</string>
+    <string name="server">Serveur</string>
+    <string name="_1080p">1080P</string>
+    <string name="dummy_name">Félix Maroy</string>
+    <string name="notifications">NOTIFICATIONS</string>
+    <string name="push_notification">Activer les Notification</string>
+    <string name="others">AUTRES</string>
+    <string name="login">CONNEXION</string>
+    <string name="remember">MOT DE PASSE OUBLIE</string>
+    <string name="new_member">Pas de Compte ?</string>
+    <string name="signup">INSCRIPTION</string>
+    <string name="wait">Veuillez Patienter...</string>
+    <string name="invalid_email">Cet Email est invalide</string>
+    <string name="invalid_pass">Veuillez entrer un Mot de Passe</string>
+    <string name="already_member">Avez-vous un Compte ?</string>
+    <string name="invalid_name">Le nom ne peut pas être vide.</string>
+    <string name="signup_success">Inscription Validée avec Succès</string>
+    <string name="home">Accueil</string>
+    <string name="account">Mon Compte</string>
+    <string name="settings">Paramètres</string>
+    <string name="theme">THEME</string>
+    <string name="version">Version Actuelle</string>
+    <string name="yes">OUI</string>
+    <string name="cancel">Annuler</string>
+    <string name="back_to_home">Retour à la \nPage d\'Accueil</string>
+    <string name="action">Actions Rapides</string>
+    <string name="account_status">Statut: </string>
+    <string name="active">ACTIF</string>
+    <string name="logout">DECONNEXION</string>
+    <string name="my_fav">MES FILMS PREFERES</string>
+    <string name="edit_profile">MODIFIER MON PROFIL</string>
+    <string name="save">Enregistrer</string>
+    <string name="search_result">Résultats de Recherche</string>
+    <string name="search_show">Résultats pour : </string>
+    <string name="fetch_data">Récupération des données...</string>
+    <string name="tv">Live TV</string>
+    <string name="tuto">Pour agrandir l\'image du lecteur d\'un Film ou d\'une chaîne TV veuillez:\n. 1. Basculer le mode Affichage de votre téléphone en PAYSAGE.\n 2. Cliquez sur le Film ou la chaîne à suivre.\n 3. Orientez horizontalement votre téléphone pendant que vous suivez le Film.</string>
+    <string name="tuto_title">Comment agrandir l\'image ?</string>
+
+    <string name="feedbacktype1">Impossible de Lire la vidéo</string>
+    <string name="feedbacktype2">Demander un Film</string>
+    <string name="feedbacktype3">Signaler un Bug</string>
+    <string name="feedbacktype4">Autres</string>
+    <string name="report">Laisser un Feedback</string>
+    <string name="problem">Problème</string>
+    <string name="message">Votre Commentaire</string>
+    <string name="getresponse">Recevoir la réponse par mail</string>
+    <string name="send">ENVOYER</string>
+    <string name="feedback">Feedback</string>
+
+</resources>

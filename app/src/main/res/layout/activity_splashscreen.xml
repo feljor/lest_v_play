@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context="fr.lestreaming.SplashscreenActivity">
+
+    <ImageView
+        android:layout_centerInParent="true"
+        android:src="@drawable/lestream"
+        android:tint="@color/colorPrimaryDark"
+        android:layout_width="180dp"
+        android:layout_height="180dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:text="Powered by: LeStreaming.fr"
+        android:textAppearance="@style/TextAppearance.Title"
+        android:gravity="center_horizontal"
+        android:textColor="@color/colorPrimary"
+        android:layout_alignParentBottom="true"
+        android:padding="10dp"/>
+
+</RelativeLayout>
